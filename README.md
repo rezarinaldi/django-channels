@@ -66,16 +66,6 @@ Menjalankan Server
 ./manage.py runserver
 ```
 
-Formatter Black
-```
-black .
-```
-
-Sorting with Isort
-```
-isort .
-```
-
 - Server akan berjalan di http://127.0.0.1:8000/
 - Halaman admin akan berjalan di http://127.0.0.1:8000/admin
 
